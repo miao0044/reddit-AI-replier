@@ -1,1 +1,0 @@
-Generate a respond of user's request below:
